@@ -38,3 +38,5 @@ fghsfdgsdfgsdfgseth
 :smile:
 
 ![깃랩로고입니다.](./images/깃랩-로고.png)
+
+[사이트로 바로가기](./images/README.md)
